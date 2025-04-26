@@ -74,6 +74,11 @@ section h3 {
   margin-bottom: 8px;
 }
 
+.activity-card ul {
+  margin-left: 20px; /* Zwiększenie wcięcia */
+  list-style-type: disc;
+}
+
 .form-group {
   margin-bottom: 15px;
 }
