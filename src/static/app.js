@@ -63,7 +63,7 @@ document.addEventListener("DOMContentLoaded", () => {
           method: "POST",
         }
       );
-
+ 
       const result = await response.json();
 
       if (response.ok) {
